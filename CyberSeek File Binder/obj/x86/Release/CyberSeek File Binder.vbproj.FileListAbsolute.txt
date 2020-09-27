@@ -1,0 +1,9 @@
+C:\Users\CyberSeek\Desktop\File Binder\CyberSeek File Binder\CyberSeek File Binder\bin\Release\CyberSeek File Binder.exe
+C:\Users\CyberSeek\Desktop\File Binder\CyberSeek File Binder\CyberSeek File Binder\bin\Release\CyberSeek File Binder.pdb
+C:\Users\CyberSeek\Desktop\File Binder\CyberSeek File Binder\CyberSeek File Binder\bin\Release\CyberSeek File Binder.xml
+C:\Users\CyberSeek\Desktop\File Binder\CyberSeek File Binder\CyberSeek File Binder\obj\x86\Release\CyberSeek_File_Binder.Form1.resources
+C:\Users\CyberSeek\Desktop\File Binder\CyberSeek File Binder\CyberSeek File Binder\obj\x86\Release\CyberSeek_File_Binder.Resources.resources
+C:\Users\CyberSeek\Desktop\File Binder\CyberSeek File Binder\CyberSeek File Binder\obj\x86\Release\CyberSeek File Binder.vbproj.GenerateResource.Cache
+C:\Users\CyberSeek\Desktop\File Binder\CyberSeek File Binder\CyberSeek File Binder\obj\x86\Release\CyberSeek File Binder.exe
+C:\Users\CyberSeek\Desktop\File Binder\CyberSeek File Binder\CyberSeek File Binder\obj\x86\Release\CyberSeek File Binder.xml
+C:\Users\CyberSeek\Desktop\File Binder\CyberSeek File Binder\CyberSeek File Binder\obj\x86\Release\CyberSeek File Binder.pdb
